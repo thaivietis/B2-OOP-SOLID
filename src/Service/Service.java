@@ -7,11 +7,8 @@ public class Service {
         System.out.println("Sach da duoc them vao gio hang");
     }
 
-    public void payOrder() {
-        System.out.println("Thanh toan thanh cong!");
+    public void sendMail(){
+        System.out.println("Sending mail");
     }
 
-    public void sendMail(){
-        System.out.println("Mail da gui thanh cong!");
-    }
 }
